@@ -1,0 +1,41 @@
+= In Any Given Moment
+:booktitle: {doctitle}
+:description: 
+:author: Ajahn Munindo
+:creator: {author}
+:version: v1.0
+:revdate: 2021-01-17
+:doctype: book
+:lang: en
+:pubs-logo: aruno-pubs.jpg
+:publisher-name: Aruno Publications
+:publisher-link-name: ratanagiri.org.uk
+:publisher-link-url: https://ratanagiri.org.uk/
+:source: https://ratanagiri.org.uk/
+:keywords: Dhamma, Buddhism, RELIGION / Buddhism / Theravada
+:copyright: CC-BY-NC-ND 4.0
+:isbn: 000-0-00000-000-0
+:identifier: isbn:{isbn}
+:imagesdir: assets/photos/92dpi-ebook-sRGB
+:includes: manuscript/asciidoc
+:front-cover-image: image:desktop-cover.png[Front Cover,800,1200]
+:toc: left
+:toc-title: Contents
+:toclevels: 0
+
+include::{includes}/dedication.adoc[]
+
+include::{includes}/foreword.adoc[]
+
+include::{includes}/preface.adoc[]
+
+include::{includes}/titlepage.adoc[]
+
+include::{includes}/01-chapter-one.adoc[]
+
+include::{includes}/02-chapter-two.adoc[]
+
+include::{includes}/glossary.adoc[]
+
+include::{includes}/copyright.adoc[]
+
