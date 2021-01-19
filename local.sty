@@ -1,2 +1,18 @@
 \ProvidesPackage{local}
 
+%\usepackage{lipsum}
+
+% If using babel, captions names have to be renamed like this
+\addto\captionsbritish{
+  \renewcommand{\bibname}{Notes}
+}
+
+% Default in latex.ltx
+%\def\@cite#1#2{[{#1\if@tempswa , #2\fi}]}
+
+\def\@cite#1#2{\textsuperscript{{#1\if@tempswa , #2\fi}}}
+
+% Green color page
+% CMYK [0-100] 63, 5, 100, 0
+
+\definecolor{frontgreen}{cmyk}{0.63,0.05,1,0}
