@@ -152,7 +152,7 @@
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
 \definecolor{partname}{gray}{0.5}
-\definecolor{parttitle}{gray}{0.5}
+\definecolor{parttitle}{gray}{0.3}
 \definecolor{linkborder}{rgb}{0.4,0.4,1}% light blue
 \definecolor{link}{rgb}{0.2,0.2,1}% not so light blue
 
@@ -857,7 +857,6 @@ philo-sophical munindo amaravati thai-land}
 % === Renewing package macros ===
 
 \addtodef{\mainmatter}{}{%
-  \addtocontents{toc}{\addvspace{10pt}}%
   \setcounter{chapter}{0}%
 }
 
@@ -868,6 +867,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \addtodef{\backmatter}{}{%
+  \addtocontents{toc}{\addvspace{15pt}}%
   \bookmarksetup{startatroot}%
 }
 
@@ -1020,15 +1020,27 @@ philo-sophical munindo amaravati thai-land}
 % FIXME: the first Part heading in the TOC will also add that 20pt
 % vspace. How to add it only before a Part that follows a Chapter?
 
+\newcounter{tocpart}
+
+\titlecontents{part}[\tocLeftWidth]
+{\addtocounter{tocpart}{1}\addvspace{25pt}\fontsize{13}{13}\tocChapterFont\selectfont}%
+{%
+  \contentsmargin{0pt}%
+  \lsstyle
+  \MakeUppercase
+}
+{\contentsmargin{0pt}\itshape}
+{\hfill\color[gray]{0.2}\pageNumSize\tocPageNumFont\thecontentspage}
+
 \titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{12pt}\fontsize{13}{13}\tocChapterFont\selectfont}%
+{\addvspace{12pt}\fontsize{12}{13}\tocChapterFont\selectfont}%
 {%
   \contentsmargin{0pt}%
   \makebox[0pt][r]{%
     \color[gray]{0.5}%
-    \fontsize{15}{15}\tocPageNumFont\selectfont%
-    \thecontentslabel.%
-    \hspace*{0.5em}%
+    \fontsize{12}{12}\tocPageNumFont\selectfont%
+    \arabic{tocpart}.\thecontentslabel%
+    \hspace*{0.7em}%
   }%
 }
 {\contentsmargin{0pt}\itshape}
@@ -1059,7 +1071,7 @@ philo-sophical munindo amaravati thai-land}
 
 \renewcommand{\partnamefont}{\Huge\partTitleFont\color{partname}}
 \renewcommand{\partnumfont}{\Huge\partTitleFont\color{partname}}
-\renewcommand{\parttitlefont}{\large\partTitleFont\color{parttitle}\MakeUppercase}
+\renewcommand{\parttitlefont}{\fontsize{17}{19}\partTitleFont\lsstyle\color{parttitle}\MakeUppercase}
 \renewcommand*{\midpartskip}{\par\vskip 10pt}%
 
 % FIXME: Currently, if there isn't a part title, we have to do
@@ -1083,30 +1095,12 @@ philo-sophical munindo amaravati thai-land}
   \fi
   \partmark{#1}%
   {%
-    \raggedright
-    \hspace*{\chapterTitleLeftSkip}%
-    \begin{minipage}{\linewidth - \chapterTitleLeftSkip}
-      \raggedright
-      \interlinepenalty \@M
-      \parskip\z@
-      \ifthisparthasnote
-        \thePartNote
-        \par
-        \global\thisparthasnotefalse
-        \midpartskip
-      \fi
-      \normalfont
-      \ifnum \c@secnumdepth >-2\relax
-        \resizebox{2.8cm}{!}{\printpartname \partnamenum \printpartnum}
-        \par\vskip 20pt
-      \fi
-      \ifthisparthastitle
-        \printparttitle{#2}
-      \else
-        \global\thisparthastitletrue
-      \fi
-      \par%
-    \end{minipage}%
+    \centering
+    \ifthisparthastitle
+      \printparttitle{#2}
+    \else
+      \global\thisparthastitletrue
+    \fi
     \par%
   }%
 \@endpart}
