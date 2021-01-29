@@ -301,6 +301,10 @@
   openlevel=2
 ]{bookmark}
 
+% How to reset chapter and section counter with \part
+% https://tex.stackexchange.com/questions/54383/how-to-reset-chapter-and-section-counter-with-part
+\@addtoreset{chapter}{part}
+
 % === penalties and hyphenation ===
 
 % memoir's more allowing penalties
@@ -308,6 +312,9 @@
 
 \ifthenelse{\equal{\BOOK@babelLanguage}{british}}{
   \renewcommand\britishhyphenmins{{3}{3}}
+  \addto\captionsbritish{
+    \renewcommand{\bibname}{References}
+  }
 }{}
 \ifthenelse{\equal{\BOOK@babelLanguage}{italian}}{
   \renewcommand\italianhyphenmins{{3}{3}}
@@ -541,7 +548,7 @@ philo-sophical munindo amaravati thai-land}
   {\centering\itshape\footnotesize #1\par}%
 }
 
-% for longer sutta and book quotes
+% for short quotes
 \renewenvironment{quote}%
 {\list{}{%
     \raggedright
@@ -550,6 +557,19 @@ philo-sophical munindo amaravati thai-land}
     \itemindent    \listparindent
     \leftmargin    \quoteMargin
     \rightmargin   \quoteMargin
+    \parsep        8pt
+    \topsep        8pt
+    \partopsep     0pt}%
+\item[]}%
+{\endlist}
+
+% for longer sutta and book quotes
+\renewenvironment{quotation}%
+{\list{}{%
+    \listparindent 0pt
+    \itemindent    \listparindent
+    \leftmargin    \quoteMargin
+    \rightmargin   0pt
     \parsep        8pt
     \topsep        8pt
     \partopsep     0pt}%
@@ -586,6 +606,19 @@ philo-sophical munindo amaravati thai-land}
     \rightmargin   \quoteMargin
     \parsep        8pt
     \topsep        0pt
+    \partopsep     0pt}%
+\item[]}%
+{\endlist}
+
+\newenvironment{image}%
+{\list{}{%
+    \centering
+    \listparindent 0pt
+    \itemindent    \listparindent
+    \leftmargin    0pt
+    \rightmargin   0pt
+    \parsep        8pt
+    \topsep        8pt
     \partopsep     0pt}%
 \item[]}%
 {\endlist}
@@ -715,7 +748,7 @@ philo-sophical munindo amaravati thai-land}
 
 % #1: width
 % #2: photo
-\newcommand{\chapterPhotoInlinePortrait}[2]{%
+\newcommand{\chapterPhotoInlinePortrait}[2][0.9\linewidth]{%
   \vspace{8pt \@plus 15pt \@minus 0pt}%
   {\centering%
     \includegraphics[width=#1]{#2}%
@@ -1150,7 +1183,7 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
   \if@mainmatter
-    \setlength{\chapterNumberWidth}{\widthof{\chapnumfont 99.} + 10pt}
+    \setlength{\chapterNumberWidth}{\widthof{\chapnumfont 99.} + 20pt}
   \else
     \setlength{\chapterNumberWidth}{0pt}
   \fi
@@ -1164,7 +1197,7 @@ philo-sophical munindo amaravati thai-land}
       \parbox{\chapterNumberWidth}{%
         \if@mainmatter
           \chapnumfont\color{chapternum}%
-          \hspace*{\chapterTitleLeftSkip}\thechapter .%
+          \hspace*{\chapterTitleLeftSkip}\arabic{part}.\thechapter%
         \else
           \mbox{}%
         \fi

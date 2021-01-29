@@ -50,13 +50,24 @@
 
 \ifdesktopversion
 \desktopCover{\includegraphics[height=\paperheight]{./desktop-cover.png}}
+\else
+
+\thispagestyle{empty}
+\mbox{}
+\pagecolor{frontblue}
+\newpage
+\thispagestyle{empty}
+\pagecolor{white}
+\mbox{}
+\newpage
+
 \fi
+
+\input{./manuscript/tex/opening.tex}
 
 \input{./manuscript/tex/titlepage.tex}
 
 \input{./manuscript/tex/copyright.tex}
-
-\input{./manuscript/tex/dedication.tex}
 
 \cleartorecto
 \tableofcontents*
@@ -140,23 +151,29 @@
 
 \backmatter
 
-%\input{./manuscript/tex/99-epilogue.tex}
-%
-%\appendix
-%
-%\input{./manuscript/tex/99-translators.tex}
-%\input{./manuscript/tex/99-tree.tex}
+\input{./manuscript/tex/99-epilogue.tex}
 
-\input{./manuscript/tex/notes.tex}
+\appendix
 
-%\input{./manuscript/tex/links.tex}
+\input{./manuscript/tex/99-translators.tex}
+\input{./manuscript/tex/99-tree.tex}
 
-%% FIXME
-%% \begin{quote}
-%%   \includegraphics[width=4.20208in,height=5.57986in]{media/image11.jpeg}
-%% \end{quote}
-%
-%\input{./manuscript/tex/copyright-details.tex}
+\input{./manuscript/tex/references.tex}
+
+\clearpage
+\thispagestyle{empty}
+
+\mbox{}\vfill
+
+{\centering
+
+\chapterPhotoInlinePortrait[\linewidth]{image11.jpeg}
+
+}
+
+\vfill\mbox{}
+
+\input{./manuscript/tex/copyright-details.tex}
 
 \emptyUntilEven
 
