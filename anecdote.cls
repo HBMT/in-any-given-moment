@@ -187,13 +187,13 @@
 
 \newfontfamily\alegreyaSansLightFont[
   ItalicFont = Alegreya-Italic.otf,
-]{AlegreyaSans-Light.otf}
+]{AlegreyaSansX-Light.ttf}
 
 %\newfontfamily\AlegreyaSansThinFont[
 %  ItalicFont = AlegreyaSans-ThinItalic.otf,
 %]{AlegreyaSans-Thin.otf}
 
-\newfontfamily\hattoriFont{Hattori_Hanzo.otf}
+\newfontfamily\hattoriFont{HattoriHanzoX-Light.ttf}
 
 % header and footer
 
@@ -255,7 +255,7 @@
 
 \RequirePackage[final,babel=true]{microtype}
 
-\SetTracking[spacing={400,100,}]{encoding=*, family={AlegreyaSans-Light.otf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={AlegreyaSansX-Light.ttf}}{20}
 \SetTracking[spacing={500,100,}]{encoding=*, family=Hattori_Hanzo.otf}{100}
 
 % === hyperref ===
