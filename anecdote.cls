@@ -148,7 +148,7 @@
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
-\definecolor{section}{gray}{0.3}
+\definecolor{section}{gray}{0.2}
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
 \definecolor{partname}{gray}{0.5}
@@ -193,12 +193,10 @@
 %  ItalicFont = AlegreyaSans-ThinItalic.otf,
 %]{AlegreyaSans-Thin.otf}
 
-\newfontfamily\hattoriFont{HattoriHanzoX-Light.ttf}
-
 % header and footer
 
-\newcommand\headerFont\hattoriFont
-\newcommand\footerFont\hattoriFont
+\newcommand\headerFont\alegreyaSansLightFont
+\newcommand\footerFont\alegreyaSansLightFont
 \newcommand\pageNumFont\merriweatherSansFont
 
 % chapter and section
@@ -211,11 +209,11 @@
 \newcommand\chapterAuthorFont\alegreyaSansLightFont
 \newcommand\chapterNoteFont\alegreyaSansLightFont
 
-\newcommand\sectionFont\hattoriFont
+\newcommand\sectionFont\alegreyaSansLightFont
 
 % quote
 
-\newcommand\sideruleQuoteFont\hattoriFont
+\newcommand\sideruleQuoteFont\alegreyaSansLightFont
 
 % toc
 
@@ -256,7 +254,6 @@
 \RequirePackage[final,babel=true]{microtype}
 
 \SetTracking[spacing={400,100,}]{encoding=*, family={AlegreyaSansX-Light.ttf}}{20}
-\SetTracking[spacing={500,100,}]{encoding=*, family=Hattori_Hanzo.otf}{100}
 
 % === hyperref ===
 
