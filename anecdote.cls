@@ -169,6 +169,7 @@
   ItalicFont = EBGaramond12-Italic.otf,
   %BoldFont = GenBkBasB.ttf,
   %BoldItalicFont = GenBkBasBI.ttf,
+  Contextuals = NoAlternate,% Disables long tail Q, as in Queen
 ]{EBGaramond12-Regular.otf}
 
 \newfontfamily\crimsonRomanFont[
@@ -187,6 +188,10 @@
 
 \newfontfamily\alegreyaSansLightFont[
   ItalicFont = Alegreya-Italic.otf,
+]{AlegreyaSansX-Light.ttf}
+
+\newfontfamily\tocBackmatterFont[
+  ItalicFont = AlegreyaSans-LightItalic.ttf,
 ]{AlegreyaSansX-Light.ttf}
 
 %\newfontfamily\AlegreyaSansThinFont[
@@ -1040,7 +1045,7 @@ philo-sophical munindo amaravati thai-land}
     \hspace*{0.7em}%
   }%
 }
-{\contentsmargin{0pt}\itshape}
+{\contentsmargin{0pt}\tocBackmatterFont\itshape}
 {\hfill\color[gray]{0.2}\pageNumSize\tocPageNumFont\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
