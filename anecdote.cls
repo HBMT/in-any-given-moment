@@ -589,7 +589,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand{\quoteRef}[1]{%
-  {\raggedleft\itshape\footnotesize #1\par}%
+  {\smallskip\itshape\footnotesize #1\par}%
 }
 
 \newcommand{\quoteRefInline}[1]{%
