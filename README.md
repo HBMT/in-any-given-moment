@@ -5,9 +5,9 @@ By Ajahn Munindo
 
 First edition
 
-ISBN for paperback: `000-000-0000-00-0`
+ISBN for paperback: `978-1-908444-69-1`
 
-ISBN for ebooks: `000-0-00000-000-0`
+ISBN for ebooks: `978-1-908444-68-4`
 
 See the final files in the `publish/final/` folder.
 
