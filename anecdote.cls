@@ -259,6 +259,7 @@
 \RequirePackage[final,babel=true]{microtype}
 
 \SetTracking[spacing={400,100,}]{encoding=*, family={AlegreyaSansX-Light.ttf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={EBGaramond12-Regular.otf}}{20}
 
 % === hyperref ===
 
@@ -1073,7 +1074,7 @@ philo-sophical munindo amaravati thai-land}
 
 \renewcommand{\partnamefont}{\Huge\partTitleFont\color{partname}}
 \renewcommand{\partnumfont}{\Huge\partTitleFont\color{partname}}
-\renewcommand{\parttitlefont}{\fontsize{17}{19}\partTitleFont\lsstyle\color{parttitle}\MakeUppercase}
+\renewcommand{\parttitlefont}{\fontsize{17}{25}\partTitleFont\lsstyle\color{parttitle}\MakeUppercase}
 \renewcommand*{\midpartskip}{\par\vskip 10pt}%
 
 % FIXME: Currently, if there isn't a part title, we have to do
