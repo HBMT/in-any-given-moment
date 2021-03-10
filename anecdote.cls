@@ -790,7 +790,7 @@ philo-sophical munindo amaravati thai-land}
     \normalfont%
     \fontsize{20}{20}\selectfont%
     \color[gray]{0.7}%
-    *\quad*\quad*%
+    $\cdot$\quad$\cdot$\quad$\cdot$%
   \par}%
   \vspace{8pt \@plus 15pt \@minus 0pt}%
 }
