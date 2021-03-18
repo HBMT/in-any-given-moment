@@ -20,8 +20,7 @@ dialect. Tan Tiradhammo was thoughtfully sending me audio tapes by post,
 and it was a delight to discover how well I could now understand them;
 also I was motivated to start to work on translating at least one of
 them into English. This was the talk now called, _Reading The Natural
-Mind_, and is printed in __The Collected Teachings__footnote:[FIXME:cite
-collected] (Chapter 22, p.237).
+Mind_, and is printed in __The Collected Teachings__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]] (Chapter 22, p.237).
 
 The exercise of translating proved particularly rewarding. It required
 using my head to access conceptual meaning and word equivalents in both
@@ -61,7 +60,7 @@ moderate amount of heedlessness. Maybe it was the result of how
 unskilfully I approached meditation in the beginning, without an
 appreciation for precepts and restraint. Or was this past life kamma?
 Then again, if you trust in the theory of
-epigeneticsfootnote:[FIXME:cite epigenetics], perhaps it was related to
+epigeneticsfootnote:[link:https://en.wikipedia.org/wiki/Epigenetics[Epigenetics]], perhaps it was related to
 how my ancestors conducted themselves?
 
 I definitely didn’t know what it was. It took a very long time – and

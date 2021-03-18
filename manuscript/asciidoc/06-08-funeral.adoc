@@ -16,8 +16,7 @@ set for the following year, 16th January 1993.
 
 At Harnham we established a week-long routine of evening sitting
 meditation and chanting, ending with a public event, during which I read
-out one of his translated talks, Not Surefootnote:[FIXME:cite
-collected]; a teaching on uncertainty. A special shrine was set up in
+out one of his translated talks, Not Surefootnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]]; a teaching on uncertainty. A special shrine was set up in
 the meditation hall on the Dhamma Seat. Our teacher had gone; we were
 now left with the teachings.
 
@@ -39,8 +38,7 @@ upon Tyne is on approximately the same latitude as Moscow.
 However, the winds from the north were not the only challenge we had to
 handle. We certainly also had our share of being blown around by the
 eight worldly winds: praise and blame, gain and loss, pleasure and pain,
-honour and insignificance. In the Mahamangala Suttafootnote:[FIXME:cite
-mahamangala] (p39), in the third to last stanza, the Buddha describes
+honour and insignificance. In the Mahamangala Suttafootnote:[link:https://forestsangha.org/teachings/books/volume-2-suttas?language=English[Mahamangala Sutta]] (p39), in the third to last stanza, the Buddha describes
 how the heart of one who has insight into the Four Noble Truths reacts
 when impacted by the worldly winds,
 
@@ -68,7 +66,7 @@ acres of farmland. He was already in his eighties by then and could use
 the help. He seemed to enjoy having the company of the community on the
 hill. Often he would talk about the history of the place, including the
 period when an earlier owner of the property, Madam
-Babingtonfootnote:[FIXME:cite babington], had lived in the Hall and was
+Babingtonfootnote:[link:http://northeasthistorytour.blogspot.com/2015/09/the-dissenting-madam-babington-nz073804.html[Madam Babington]], had lived in the Hall and was
 eventually buried in a crypt not far from the main house. There had also
 been a small chapel that she had built near the walled garden. Some say
 the ghost of Madam Babington still appears on the hill.
@@ -115,7 +113,7 @@ spoken in a dialect known as _Magadhi_ (with some possible other related
 dialects) and was recorded in the Pali language within the first two
 hundred years after the Buddha passed away. Pali was not a generally
 spoken language (the word Pali actually means ‘text’); some scholars
-think it is somewhat similar to esperantofootnote:[FIXME:cite esperanto]
+think it is somewhat similar to esperantofootnote:[link:https://en.wikipedia.org/wiki/Esperanto[Esperanto]]
 inasmuch as it was intentionally generated for a specific purpose, in
 this case to codify recorded teachings. These days there are still many
 scholars who can understand it, and these Pali texts are available to
@@ -186,7 +184,7 @@ Meetings’; IEM for ‘International Elders Meetings’. Currently, when
 referring to the smaller meeting of abbots only, we are using BAM, which
 stands for ‘Branch Abbots Meeting’. The name change factors in the
 difference between the formally appointed Branch
-Monasteriesfootnote:[FIXME:cite branches], of which there are now
+Monasteriesfootnote:[link:https://forestsangha.org/[Forest Sangha Community]], of which there are now
 fifteen, and the more loosely affiliated Associated Monasteries, of
 which there are maybe eleven or twelve. The fifteen abbots who
 constitute the BAM group are tasked with discussing and hopefully
@@ -225,7 +223,7 @@ on the form; his way was to cultivate a quality of mutual respect which
 allowed for individual differences without compromising concord.
 
 Now back to 1993. On the day of the cremation ceremony itself, there
-were approximately 500,000 peoplefootnote:[FIXME:cite cremation] at Wat
+were approximately 500,000 peoplefootnote:[link:https://ajahnsucitto.org/travels/the-state-funeral-of-luang-por-chah/[The State Funeral of Luang Por Chah]] at Wat
 Pah Pong, including the Supreme Patriarch, Ven. Somdet Nyanasamvara of
 Wat Boworn, and Their Majesties the King and Queen of Thailand. From
 what I could tell, the overriding atmosphere during this phenomenal
@@ -237,7 +235,7 @@ who would take over leading the sangha once he was gone, he pointed to
 the Dhamma, saying that was to be the teacher. I am sure Tan Ajahn Chah
 would likewise have pointed to the teachings.
 
-Anyone who has listened to talks that I givefootnote:[FIXME:cite talks]
+Anyone who has listened to talks that I givefootnote:[link:https://ratanagiri.org.uk/teachings/talks/teachers/ajahn-munindo[Teachings by Ajahn Munindo]]
 would probably have noticed how often I refer to Tan Ajahn Chah.
 Perhaps, also, they have observed that there are several teaching
 stories or situations on which I regularly comment. Reflecting back on
@@ -283,7 +281,7 @@ sent me when I was staying in Chiang Rai province, in Northern Thailand.
 It coincided with a period when my grasp of the Thai language was
 sufficient for me to start translating. That talk was called, _Reading
 The Natural Mind_, and was eventually printed in __The Collected
-Teachings__footnote:[FIXME:cite collected] (Chapter 22, p 237). Paying
+Teachings__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]] (Chapter 22, p 237). Paying
 close attention to the words and the meaning of that talk, I considered
 with interest what Tan Ajahn Chah was saying about the difference
 between the way unawakened beings and awakened beings relate to desire.
@@ -299,7 +297,7 @@ into the tape recorder so it could be taken back as a memento. As it
 was, she received a fifteen minute teaching about Buddhist practice in
 which Tan Ajahn Chah summarized the essence of the path and liberation.
 The talk is now printed in __The Collected Teachings of Ajahn
-Chah__footnote:[FIXME:cite collected], page 233, with the title, _Living
+Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]], page 233, with the title, _Living
 With The Cobra_. The central message, as far as I was concerned, is:
 don’t invest too much in ideas of enlightenment; look instead into that
 which is happening right here and now.
@@ -310,8 +308,7 @@ __Nibbana_ is found in _saṃsara_. Enlightenment and
 delusion exist in the same place, just as do hot and cold. It’s hot
 where it was cold and cold where it was hot. When heat arises, the
 coolness disappears, and when there is coolness, there’s no more heat.
-(__The Collected Teachings of Ajahn Chah__footnote:[FIXME:cite
-collected], p.235)_
+(__The Collected Teachings of Ajahn Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]], p.235)_
 ____
 
 The sixth situation or teaching that stands out for me and has shaped my
@@ -339,7 +336,7 @@ monks, visited Tan Ajahn Chah; they were trying to pin him down by
 asking questions about exactly what is meant by the term ‘Original Mind’
 and what actually is contemplation. A translation of this conversation
 is printed on p.475 in __The Collected Teachings of Ajahn
-Chah__footnote:[FIXME:cite collected].
+Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]].
 
 The comment from that Q&A session that has stayed with me all these
 years, is when Tan Ajahn Chah was responding to a question about just
@@ -374,8 +371,7 @@ you are beyond both self and non-self.’
 
 I don’t know where the ninth teaching that I want to mention came from.
 I do know that I used it one year on a page on our Forest Sangha
-calendar. It is a particularly quotable quotefootnote:[FIXME:cite
-centre] and it is widely commented upon, not just by me. Tan Ajahn Chah
+calendar. It is a particularly quotable quotefootnote:[link:https://www.amaravati.org/the-view-from-the-centre/[The View from the Centre]] and it is widely commented upon, not just by me. Tan Ajahn Chah
 is reported to have said: ‘Don’t be an arahant, don’t be a bodhisattva,
 don’t be anything at all. If you are anything at all, you will suffer.’
 In a way that is characteristic of Tan Ajahn Chah, he cuts through all

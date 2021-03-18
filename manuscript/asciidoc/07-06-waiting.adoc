@@ -1,7 +1,7 @@
 = Sitting in the Buddha’s Waiting Room
 
 There is a story traditionally associated with __Dhammapada verse
-331__footnote:[FIXME:cite dhp-331] above, in which _Mara_ tries to
+331__footnote:[link:http://www.tipitaka.net/tipitaka/dhp/verseload.php?verse=331[Dhammapada verse 331]] above, in which _Mara_ tries to
 entice the Buddha to take on the powers of a king and become a worldly
 ruler. There was no way that was going to happen; the Buddha was not
 interested in having power over others. He was interested in showing
@@ -265,7 +265,7 @@ mistaken if we think we can have the compassion without doing the work.
 
 In 1967 I was fifteen years old, and I can recall sitting in the living
 room in our house in Morrisville, watching on our black and white
-television set a global TV link-upfootnote:[FIXME:cite satellite] – the
+television set a global TV link-upfootnote:[link:https://www.bbc.co.uk/blogs/genome/entries/581d6e34-67f3-40e2-a372-12a4947d4c56[Satellite of Love]] – the
 first occasion when many countries around the world all simultaneously
 tuned in to the same program. One of Britain’s contributions to that
 event was the Beatles singing _All You Need is Love_. They were backed
@@ -487,9 +487,9 @@ extra. As a result of seeing this, forgiveness grows.
 The third right effort is described as ‘making an effort to remove
 already arisen unwholesome states of mind.’ It is beneficial to
 familiarize ourselves with what the Buddha said about the five ways of
-removing distracting thoughtsfootnote:[FIXME:cite thoughts]. Also I
+removing distracting thoughtsfootnote:[link:https://www.accesstoinsight.org/tipitaka/mn/mn.020.soma.html[The Removal of Distracting Thoughts]]. Also I
 would recommend reading what Ajahn Tiradhammo wrote in his book,
-__Working with the Five Hindrances__footnote:[FIXME:cite hindrances].
+__Working with the Five Hindrances__footnote:[link:https://forestsangha.org/teachings/books/working-with-the-five-hindrances?language=English[Working with the Five Hindrances]].
 
 In my own experience I have found it useful to bear in mind that the
 kind of effort required to deal with an already arisen obstruction
@@ -645,7 +645,7 @@ exercises.
 
 The sort of attitude we need to have when disciplining attention is
 similar to that of a gardener as he or she trains their runner
-beansfootnote:[FIXME:cite beans] to run along the frame which they have
+beansfootnote:[link:https://www.growveg.co.uk/guides/how-to-grow-runner-beans/[How to Grow Runner Beans]] to run along the frame which they have
 erected. The gardener gently guides the beans to grow in a certain
 direction so they get maximum sunlight and are easy to pick once they
 are mature. The gardener is aware that if they are not careful they will
@@ -750,7 +750,7 @@ you would hold a newborn baby – gently, softly and lovingly.
 Another approach to stillness – and one with which we might prepare
 ourselves by contemplating in advance – can come with sickness. A few
 years ago a good friend of our monasteries contracted Lyme
-diseasefootnote:[FIXME:cite lyme]. As can happen, his condition went
+diseasefootnote:[link:https://www.nhs.uk/conditions/lyme-disease/[Lyme disease]]. As can happen, his condition went
 undiagnosed for a long time. Then it took a great many months before he
 could say he was back to anything like normal again. When he was
 somewhat recovered, he shared with me how at one stage during his

@@ -12,13 +12,13 @@ practice and support harmonious community, I would like to consider the
 topic of contentment.
 
 In response to a request by the first Buddhist nun, Bhikkhuni
-Mahapajapatifootnote:[FIXME:cite mahapajapati], the Buddha offered a
+Mahapajapatifootnote:[link:https://www.accesstoinsight.org/tipitaka/an/an08/an08.053.than.html[Gotami Sutta: To Gotami]], the Buddha offered a
 concise eight-point summary of all of his teachings. Around the middle
 of this discourse he stated: _That which leads to contentment is Dhamma
 and that which leads to discontentment is not Dhamma_.
 
 Earlier this year I gave a talk titled, Unapologetic Pursuit of
-Contentmentfootnote:[FIXME:cite pursuit]. A friend of the monastery
+Contentmentfootnote:[link:https://ratanagiri.org.uk/teachings/talks/unapologetic-pursuit-of-contentment[Unapologetic Pursuit of Contentment]]. A friend of the monastery
 warned me at the time that currently many people equate the pursuit of
 contentment with being irresponsible: since the world is in such a
 precarious state, contentment is the last thing we should be thinking
@@ -166,8 +166,7 @@ the rubbish collector as well. This is how things are – it’s the same at
 Wat Pah Pong, it was the same at the time of the Buddha… everything gets
 chucked in the abbot’s bin! One in such a position must therefore be
 far-sighted, have depth, and remain unshaken in the midst of all things.
-They must be consistent – able to persevere.footnote:[FIXME:cite
-seeing]_
+They must be consistent – able to persevere.footnote:[link:https://www.amaravati.org/dhamma-books/seeing-the-way-volume-1/[Seeing the Way, Vol. 1, Amaravati Publications, 1989]]_
 ____
 
 Every abbot of our branch monasteries in the West with whom I have
@@ -345,7 +344,7 @@ a false god.
 Although I haven’t researched the data, it wouldn’t surprise me if
 statistics showed that over the last fifty years there has been a steady
 increase in use of anxiety medication; one that coincides with the
-increasing rate of suicidefootnote:[FIXME:cite suicide]. What does
+increasing rate of suicidefootnote:[link:https://www.befrienders.org/suicide-statistics[Suicide statistics]]. What does
 surprise me is that I almost never hear anyone talking about the effect
 that this sudden absence of religious belief must be having on our sense
 of self.
@@ -439,7 +438,7 @@ our relationship with it. It is appropriate that we feel afraid of it,
 in the same way we should be afraid of getting too close to a source of
 radiation: it has the power to cause harm. However, to react with panic
 and blame technology, and possibly even try to ban technology, is
-similar to what the Ludditesfootnote:[FIXME:cite luddites] did back in
+similar to what the Ludditesfootnote:[link:https://en.wikipedia.org/wiki/Luddite[Luddite]] did back in
 the 1800’s out of fear of the fabric-manufacturing machines. Their
 disruptive actions didn’t stop the mechanical production of cloth.
 Technology is not going to disappear. What would help is to develop a
@@ -501,7 +500,7 @@ audio and written materials from within our family of monasteries. It
 concerned us that other groups or individuals might be posting our
 materials online without our knowing about it, and possibly even
 charging for them. Later those two websites were combined to form the
-current www.forestsangha.orgfootnote:[FIXME:cite branches] website. (A
+current www.forestsangha.orgfootnote:[link:https://forestsangha.org/[Forest Sangha Community]] website. (A
 considerable amount of time and effort went into consulting around our
 world-wide family of branch monasteries to ensure there was sufficient
 agreement that I construct such a website. At that stage of the
@@ -515,11 +514,11 @@ I remain convinced that such websites provide a useful service to both
 the sangha and the world-wide community of friends and supporters.
 Currently Kris and I are considering the possibility of producing a
 smartphone app that corresponds with the content of the
-www.forestsangha.orgfootnote:[FIXME:cite branches] website.
+www.forestsangha.orgfootnote:[link:https://forestsangha.org/[Forest Sangha Community]] website.
 
 My early adoption of Facebook was not such a good idea. I was looking
 for a means of distributing fortnightly Dhammapada
-reflectionsfootnote:[FIXME:cite reflections] without triggering users’
+reflectionsfootnote:[link:https://ratanagiri.org.uk/teachings/dhammapada-reflections[Dhammapada Reflections]] without triggering users’
 spam filters. It quickly became apparent that Facebook was not the right
 tool. (Eventually we learnt about bulk emailing services which now serve
 the purpose.)
@@ -756,7 +755,7 @@ it is expecting others to take responsibility for that which is ours.
 
 It was possibly towards the end of 2009, again during a stopover in
 Thailand en route to New Zealand, that I visited Ajahn Nyanadhammo at
-Wat Ratanawan near Khao Yai National Parkfootnote:[FIXME:cite khao] in
+Wat Ratanawan near Khao Yai National Parkfootnote:[link:https://www.thainationalparks.com/khao-yai-national-park[Khao Yai National Park]] in
 central Thailand. It so happened that while I was there, a supporter of
 his monastery was also visiting and was discussing with Ajahn
 Nyanadhammo the possibility of reprinting the translated talks of Tan
@@ -778,7 +777,7 @@ Taylor, who has been helping me over the years with the graphic design
 aspects of our annual Forest Sangha calendar and other publications, was
 a significant support in the layout and presentation of what ended up
 being called __The Collected Teachings of Ajahn
-Chah__footnote:[FIXME:cite collected]. Tan Gambhiro was responsible for
+Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]]. Tan Gambhiro was responsible for
 the phenomenal amount of work that went into typesetting. Thank you, Tan
 Gambhiro, and Neil, and to all the other good friends for being part of
 the team that produced this wonderful collection.
@@ -786,10 +785,10 @@ the team that produced this wonderful collection.
 The way I felt about being part of the group that published these
 teachings is also the way I felt about designing and managing the
 www.forstsangha.org website. I have a similar feeling regarding the
-monthly Dhammapada Reflectionsfootnote:[FIXME:cite reflections] that we
+monthly Dhammapada Reflectionsfootnote:[link:https://ratanagiri.org.uk/teachings/dhammapada-reflections[Dhammapada Reflections]] that we
 distribute. This later project was initially inspired by a conversation
 I had with Ven. Myokyo-Ni during one of my visits with her at her
-Fairlight Zen Templefootnote:[FIXME:cite fairlight] in Luton. We were
+Fairlight Zen Templefootnote:[link:http://www.fairlightzentemple.org.uk/[Fairlight Zen Temple]] in Luton. We were
 discussing a program that she had been running for many years whereby
 she sent out, by mail, a Dhamma teaching to a number of recipients
 around the world. This gave rise to what I called our _Dhammasakaccha_
@@ -799,7 +798,7 @@ reflections on what I had written. The program quickly became popular to
 the point where it was taking up a considerable amount of time.
 
 After that project came the current Dhammapada
-Reflectionsfootnote:[FIXME:cite reflections] program which has been
+Reflectionsfootnote:[link:https://ratanagiri.org.uk/teachings/dhammapada-reflections[Dhammapada Reflections]] program which has been
 running now since 2007. It started with sending out a verse from the
 Dhammapada and an associated reflection every fortnight to coincide with
 the new- and full-moons, but eventually that also became more work than
@@ -1007,7 +1006,7 @@ whatever kamma they shall do, +
 for good or for ill, +
 of that they shall be the heirs.
 
-_Chanting Book_, Vol. 1, p.56footnote:[FIXME:cite chanting]
+_Chanting Book_, Vol. 1, p.56footnote:[link:https://forestsangha.org/teachings/books/volume-1-morning-and-evening-puja?language=English[Chanting Book, Vol. 1]]
 ____
 
 Reflecting thus on the law of kamma is a way of instilling the

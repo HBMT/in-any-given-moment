@@ -101,7 +101,7 @@ unendurable.
 == A New Rendering of the Dhammapada
 
 Towards the end of the 1990s I embarked on a project of producing a new
-rendering of the Dhammapadafootnote:[FIXME:cite dhammapada]. As already
+rendering of the Dhammapadafootnote:[link:https://forestsangha.org/teachings/books/a-dhammapada-for-contemplation?language=English[A Dhammapada for Contemplation]]. As already
 mentioned, our annual Forest Sangha calendar regularly used Dhamma
 quotes from translated teachings of Tan Ajahn Chah. I also wanted to use
 verses from the Dhammapada. Issues around providing proper accreditation
@@ -125,12 +125,12 @@ Thomas Jones, I embarked on a project of producing my own rendering.
 
 For the most part, the recognized translations that I consulted were:
 from Burma, the version by Daw Mya Tin and the editors of the Burmese
-Pitaka Associationfootnote:[FIXME:cite burmese-pitaka]; from Sri Lanka a
+Pitaka Associationfootnote:[link:http://www.tipitaka.net/tipitaka/dhp/[Burmese Pitaka Association]]; from Sri Lanka a
 version by Ven. Narada Thera (B.M.S. 1978), and also one by Ven. Ananda
 Maitreya Thera (Lotsawa 1988); and in later editions I consulted Ajahn
-Thanissaro’s and Bhante Buddharakita’sfootnote:[FIXME:cite buddharakita]
+Thanissaro’s and Bhante Buddharakita’sfootnote:[link:https://www.accesstoinsight.org/tipitaka/kn/dhp/index.html[Dhammapada, The Path of Dhamma]]
 versions. For each verse I looked into the Dhammapada
-Commentaryfootnote:[FIXME:cite commentary] that is traditionally
+Commentaryfootnote:[link:http://www.tipitaka.net/tipitaka/dhp/index.php[Dhammapada Commentary]] that is traditionally
 associated with it. Even though these stories are generally considered
 to be apocryphal, I feel they nevertheless contribute to understanding
 the spirit of the verse.
@@ -147,7 +147,7 @@ Dhammapada: in several places I have emphasised this is a new
 The Dhammapada is a good book to read for those who are new to Buddhism.
 However, the book that I most frequently recommend is _What the Buddha
 Taught_, by Ven. Walpola Rahula. This small volume, along with Ajahn
-Sumedho’s __Four Noble Truths__footnote:[FIXME:cite truths], provide a
+Sumedho’s __Four Noble Truths__footnote:[link:https://forestsangha.org/teachings/books/the-four-noble-truths?language=English[Four Noble Truths by Ajahn Sumedho]], provide a
 clear and accessible foundation upon which anyone interested in
 answering life’s great questions can build their practice. When I stop
 to think about it now, I consider myself extremely fortunate to have
@@ -203,7 +203,7 @@ confidence and genuinely believed they knew what was good for us. Out of
 respect we gave ourselves into following their instructions, only to
 discover that our anxiety level increased and our mind was anything but
 peaceful. Does that mean there is something wrong with us? In the
-Visuddhimagga by Ven. Buddhaghosafootnote:[FIXME:cite visuddhimagga], a
+Visuddhimagga by Ven. Buddhaghosafootnote:[link:https://en.wikipedia.org/wiki/Buddhaghosa[Visuddhimagga]], a
 well-known text within the Theravada tradition, it is explained that
 there are various character types – at least six: greedy, hating,
 deluded, faithful, intelligent, and speculative (_The Path of
@@ -260,17 +260,17 @@ struggles.
 There is a small village in Yorkshire called Ampleforth which lies about
 two hours drive south of our monastery and is where Ajahn Puñño grew up.
 Just outside this village is Ampleforth Abbey and
-Collegefootnote:[FIXME:cite ampleforth] where Ajahn Puñño did most of
+Collegefootnote:[link:https://www.ampleforth.org.uk/college/[Ampleforth Abbey and College]] where Ajahn Puñño did most of
 his schooling. On one of the occasions during the 1990s when I visited
 Ampleforth, we walked over to the abbey and met with Father Cyprian
 Smith. Besides being the novice master at the abbey, Father Cyprian was
 also a respected commentator on Meister Eckhart and is known for his
-book, __The Way of Paradox__footnote:[FIXME:cite paradox].
+book, __The Way of Paradox__footnote:[link:https://www.eckhartsociety.org/shop/books/way-paradox[The Way of Paradox]].
 
 I believe it was in the conversation we had on that occasion that I
 first became aware of the two distinctly different approaches to the
 spiritual life found within the Christian tradition: the cataphatic and
-the apophaticfootnote:[FIXME:cite cataphatic]. The former is that
+the apophaticfootnote:[link:https://en.wikipedia.org/wiki/Cataphatic_theology[Cataphatic Theology]]. The former is that
 expression of Christianity with which most of us would be familiar,
 characterized by positive affirmations about the nature of God and the
 spiritual journey. The latter is an expression of the journey
@@ -311,7 +311,7 @@ with that – finish with everything! There is nothing worth wanting! It’s
 all just a load of trouble. When you see clearly like this then
 everything is finished._
 
-(Ajahn Chah, __The Collected Teachings__footnote:[FIXME:cite collected],
+(Ajahn Chah, __The Collected Teachings__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]],
 p 478: Chap. 40, _What Is Contemplation?_)
 ____
 
@@ -504,7 +504,7 @@ anagarika, but those two months were the first occasion of our becoming
 properly acquainted. Shortly after I returned to Harnham he sent me a
 copy of a poem he had written about the occasion of his seeing me off at
 the Auckland Airport. (See, ‘__The Inner Distance__’ in __When
-Everything Is Said__footnote:[FIXME:cite everything] p 61.)
+Everything Is Said__footnote:[link:https://www.amaravati.org/dhamma-books/when-everything-is-said-wenn-alles-gesagt-ist/[When Everything Is Said]] p 61.)
 
 [quote, role=quote]
 ____

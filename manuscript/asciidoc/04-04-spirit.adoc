@@ -19,7 +19,7 @@ wisdom. In a typical talk that he gave one evening he spoke about how
 natural it was that not everyone who showed signs of having faith in
 Dhamma will follow it through. In that talk which was translated and is
 now called ‘Dhamma Nature’ (printed in ‘__The Collected Teachings of
-Ajahn Chah__footnote:[FIXME:cite collected]’, page 480) he says,
+Ajahn Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]]’, page 480) he says,
 
 [quote, role=quote]
 ____
@@ -143,8 +143,7 @@ the tradition, but without clinging. If something outside of the
 tradition felt congruent with the _Dhamma-vinaya_ that Tan Ajahn Chah
 was teaching, then he was comfortable endorsing it. At one stage, in
 conversation with Ajahn Sumedho, he recommended I look into the
-teachings of the Chinese Ch’an Master Hsu Yunfootnote:[FIXME:cite
-hsu-yun]. He suggested I might look at some translations we had in our
+teachings of the Chinese Ch’an Master Hsu Yunfootnote:[link:https://www.emptycloud.net/[Master Hsu Yun]]. He suggested I might look at some translations we had in our
 library, by Charles Luk, of teachings by Master Hsu Yun. I did, and it
 was uplifting to discover that these teachings, although from another
 tradition, were so in tune with what was being taught by Tan Ajahn Chah.
@@ -156,7 +155,7 @@ aware?’, or ‘who is knowing?’, was in some helpful way affirmed by those
 translations. Presumably, as usual, I only read a small portion of the
 books I had been recommended, though some years later I did manage to
 read all of a biography of Master Hsu Yun, called Empty
-Cloudfootnote:[FIXME:cite hsu-yun-bio]. I am very glad I read that book.
+Cloudfootnote:[link:https://www.amazon.co.uk/Empty-Cloud-Autobiography-Chinese-Master/dp/1852300310[Biography of Master Hsu Yun, Empty Cloud]]. I am very glad I read that book.
 An image of Master Hsu Yun these days hangs beside those of Ajahn Thate
 and Tan Ajahn Chah in my kuti.
 

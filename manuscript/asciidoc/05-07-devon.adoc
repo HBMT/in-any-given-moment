@@ -90,7 +90,7 @@ house on fire. Formidable! Sue lived within walking distance of Golden
 Square. On occasion, when Tan Chandapalo and I would go there to receive
 the midday meal, she would regale us with stories about what it was like
 travelling around Germany in the 1930s, also about her years in the
-WRENSfootnote:[FIXME:cite wrens] during World War Two. She shared too
+WRENSfootnote:[link:https://en.wikipedia.org/wiki/Women's_Royal_Naval_Service[Women's Royal Naval Service]] during World War Two. She shared too
 how inspired she had been many years before when she met the Thai Dhamma
 teacher, Dhiravamsa. Sue was very committed to her meditation and Dhamma
 studies. Some years later, after I went to live at Harnham in
@@ -191,7 +191,7 @@ commitment, it can be terrifyingly difficult.
 
 Around the same time that we moved to Raymond’s Hill, a group of
 committed Buddhist laypeople took up residence in a wing of a building
-known as Sharpham Housefootnote:[FIXME:cite sharpham], near Totnes. Some
+known as Sharpham Housefootnote:[link:https://queenofretreats.com/retreats/the-sharpham-trust-england/[Sharpham House]], near Totnes. Some
 of this group were associated with the community of the Insight
 Meditation Society, near Boston, Massachusetts, U.S. There was already a
 meditation group in Totnes which I regularly visited, and I expect it
@@ -235,10 +235,10 @@ within communities.
 Eventually, if I understand correctly, out of the people associated with
 that group residing at Sharpham House, grew the development of a retreat
 facility, on that same property, known these days as The
-Barnfootnote:[FIXME:cite barn]. Some of the same group were also
+Barnfootnote:[link:https://www.sharphamtrust.org/mindfulness-retreats/the-barn-retreat[The Barn]]. Some of the same group were also
 involved in the purchase of an old Christian nunnery, the other side of
 Totnes, which was to be developed into the large retreat facility called
-Gaia Housefootnote:[FIXME:cite gaia].
+Gaia Housefootnote:[link:https://gaiahouse.co.uk/[Gaia House]].
 
 There were other groups we visited in Devon. Perhaps the best
 established was the one in Plymouth. One of the leading members of that
@@ -262,7 +262,7 @@ the day that Tan Nyanaviro and I started our walk along the south Devon
 coast. Also accompanying us was anagarika Jurgen. Some months later,
 Jurgen would go on to take monks’ Precepts, and was given the name
 Khemasiri Bhikkhu. He eventually spent several years as abbot of
-Dhammapala Buddhistisches Klosterfootnote:[FIXME:cite dhammapala] in
+Dhammapala Buddhistisches Klosterfootnote:[link:https://dhammapala.ch/[Dhammapala Buddhistisches Kloster]] in
 Switzerland. In those days my knees were still up to what turned out to
 be a very demanding hike; even without backpacks it would have been a
 workout.
@@ -282,7 +282,7 @@ our habits of denial consumes a huge amount of energy. Nothing could be
 more certain than the fact that we are going to die one day. Every
 person who has ever been born has died. So it will happen. Then why do
 we deny it? And herein lies the reason for the Buddha’s encouragement to
-his disciples to regularly reflect on deathfootnote:[FIXME:cite death].
+his disciples to regularly reflect on deathfootnote:[link:https://www.accesstoinsight.org/lib/authors/gunaratna/wheel102.html[Buddhist Reflections on Death]].
 Hence too, the recitation we perform as part of our Morning Puja: _I am
 of the nature to grow old; I am of the nature to sicken; I am of the
 nature to die._ We are working on dispelling the myths which we have
@@ -293,7 +293,7 @@ death.
 During a period when I was staying at Douglas and Margaret Jones’ place,
 possibly while leading a retreat in their converted milking shed, I came
 across a book of transcribed and translated teachings by Sri Ramana
-Maharshifootnote:[FIXME:cite maharshi]. I am not sure whether I ever
+Maharshifootnote:[link:https://en.wikipedia.org/wiki/Ramana_Maharshi[Sri Ramana Maharshi]]. I am not sure whether I ever
 discussed that book with my hosts but I do recall how glad I felt to
 find yet another endorsement of the path of enquiring into ‘who’. The
 first time that approach to practice had occurred to me was on retreat
@@ -332,4 +332,4 @@ Kittisaro was sent down to replace Tan Nyanaviro. A few months later, in
 1985, I returned to live at Chithurst. Shortly after that the trustees
 sold the property at Raymond’s Hill and the sangha moved to Hartridge,
 near Honiton; the new place was named Hartridge Buddhist
-Monasteryfootnote:[FIXME:cite hartridge].
+Monasteryfootnote:[link:http://www.hartridgemonastery.org/[Hartridge Buddhist Monastery]].
