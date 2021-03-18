@@ -21,7 +21,7 @@
 :front-cover-image: image:desktop-cover.jpg[Front Cover,800,1200]
 :toc: left
 :toc-title: Contents
-:toclevels: 0
+:toclevels: 1
 
 include::{includes}/titlepage.adoc[]
 
