@@ -1,0 +1,11 @@
+[#opening]
+= (Opening)
+
+[quote, Dhammapada verse 239, role=quote]
+____
+_Gradually, gradually, +
+A moment at a time, +
+The wise remove their own impurities +
+As a goldsmith removes the dross._
+____
+

@@ -1388,6 +1388,9 @@ figure.image.quotebreak img {
 .blockquote.sidebar-quote > blockquote:first-child p {
   margin-top: 0pt;
 }
+#opening h1 {
+  display: none;
+}
 body.calibre-viewer-dark-colors {
   background-color: transparent;
 }
