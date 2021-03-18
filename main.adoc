@@ -1,6 +1,5 @@
 = In Any Given Moment
 :booktitle: {doctitle}
-:description: 
 :author: Ajahn Munindo
 :creator: {author}
 :version: v1.0
