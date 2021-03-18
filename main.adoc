@@ -15,7 +15,7 @@
 :copyright: CC-BY-NC-ND 4.0
 :isbn: 978-1-908444-68-4
 :identifier: isbn:{isbn}
-:imagesdir: assets/photos/300dpi
+:imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
 :front-cover-image: image:desktop-cover.jpg[Front Cover,800,1200]
 :toc: left
