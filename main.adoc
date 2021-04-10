@@ -2,8 +2,8 @@
 :booktitle: {doctitle}
 :author: Ajahn Munindo
 :creator: {author}
-:version: v1.0
-:revdate: 2021-03-18
+:version: v1.1
+:revdate: 2021-04-10
 :doctype: book
 :lang: en
 :pubs-logo: aruno-pubs.jpg
@@ -108,4 +108,3 @@ include::{includes}/99-translators.adoc[]
 include::{includes}/99-tree.adoc[]
 
 include::{includes}/copyright.adoc[]
-
