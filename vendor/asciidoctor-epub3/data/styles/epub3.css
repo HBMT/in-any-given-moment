@@ -876,7 +876,7 @@ div[class~="blockquote"] {
 }
 blockquote {
   color: #191918;
-  font-style: italic;
+  font-style: normal;
   margin-top: 0;
 }
 blockquote > p {
@@ -1347,10 +1347,13 @@ p.subtitle {
   font-style: normal;
 }
 .blockquote.quote blockquote {
-  font-style: italic;
+  font-style: normal;
 }
 .blockquote.quote blockquote em {
   font-style: normal;
+}
+.blockquote.quote blockquote em em {
+  font-style: italic;
 }
 .blockquote.quote-plain blockquote {
   font-style: normal;
