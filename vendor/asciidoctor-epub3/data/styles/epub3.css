@@ -1350,15 +1350,21 @@ p.subtitle {
   font-style: normal;
 }
 .blockquote.quote blockquote em {
-  font-style: normal;
+  font-style: italic;
 }
 .blockquote.quote blockquote em em {
-  font-style: italic;
+  font-style: normal;
 }
 .blockquote.quote-plain blockquote {
   font-style: normal;
 }
 .blockquote.quote-plain blockquote em {
+  font-style: italic;
+}
+.blockquote.quote-plain blockquote > p:first-child > em:first-child {
+  font-style: normal;
+}
+.blockquote.quote-plain blockquote > p > em em {
   font-style: italic;
 }
 .top-anchor {

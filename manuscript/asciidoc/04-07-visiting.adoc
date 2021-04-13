@@ -10,7 +10,7 @@ The first, I think, was from an incident that took place the day after I
 arrived. As I wrote in the book __Servant Of
 Reality__footnote:[link:https://forestsangha.org/teachings/books/servant-of-reality?language=English[Servant Of Reality]] p.12,
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
 _It was the tradition in that monastery for all the
 monks to wait in the main meeting hall before the morning alms-round. I

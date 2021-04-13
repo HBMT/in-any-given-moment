@@ -45,7 +45,7 @@ nae_: ‘Not sure.’ In __The Collected Teachings of Ajahn
 Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]], there is a talk titled, ‘Not
 Sure’ (p 599), in which Tan Ajahn Chah says,
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
 _So I say, ‘Go to the Buddha.’ Where is the Buddha?
 The Buddha is the Dhamma. All the teachings in this world can be

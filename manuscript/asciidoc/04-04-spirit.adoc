@@ -21,7 +21,7 @@ Dhamma will follow it through. In that talk which was translated and is
 now called ‘Dhamma Nature’ (printed in ‘__The Collected Teachings of
 Ajahn Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]]’, page 480) he says,
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
 _… Sometimes when a fruit tree is in bloom, a breeze
 stirs and scatters blossoms to the ground. Some buds remain and grow
