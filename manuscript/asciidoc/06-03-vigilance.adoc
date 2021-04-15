@@ -165,7 +165,7 @@ the exit point. The description that follows of what happened during
 that walk, is an edited extract from __Alert To The Needs Of The
 Journey__footnote:[link:https://forestsangha.org/teachings/books/alert-to-the-needs-of-the-journey?language=English[Alert To The Needs Of The Journey by Ajahn Munindo (2018)]] Chapter Two (p 15),
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
 _We had been hiking for several hours along the
 coastal footpath; the weather was hot, and since the beach below us was

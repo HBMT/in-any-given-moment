@@ -156,7 +156,7 @@ and, like a caring father, giving us some pointers. The part of that
 message that stayed with me, and on which I have often reflected, was
 where he said,
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
 _To be the abbot of a monastery can be compared to
 being a rubbish bin: those who are disturbed by the presence of rubbish
@@ -955,7 +955,7 @@ striving and protect us from the danger of craving for results in
 practice. In a talk by Tan Ajahn Chah titled, _Two Faces of Reality_, he
 says,
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
 _‘I used to think, about my practice, that when there
 is no wisdom, I could force myself to have it. But it didn’t work,
@@ -966,8 +966,7 @@ there’s no problem, then we don’t have to try to solve it. When there is
 a problem, that’s when you must solve it, right there! There’s no need
 to go searching for anything special, just live normally._
 
-_The Collected Teachings of Ajahn Chah, 2011, p.500_ <attr
-attribution=The Collected Teachings of Ajahn Chah, 2011, p.500>
+__The Collected Teachings of Ajahn Chah, 2011footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]], p.500__
 ____
 
 The word that quickly comes to my mind when contemplating equanimity is
@@ -997,14 +996,14 @@ whatever kamma I shall do, +
 for good or for ill, +
 of that I shall be the heir._
 
-All beings are the owners of their kamma, +
+_All beings are the owners of their kamma, +
 heirs to their kamma, +
 born of their kamma, +
 related to their kamma, +
 abide supported by their kamma; +
 whatever kamma they shall do, +
 for good or for ill, +
-of that they shall be the heirs.
+of that they shall be the heirs._
 
 _Chanting Book_, Vol. 1, p.56footnote:[link:https://forestsangha.org/teachings/books/volume-1-morning-and-evening-puja?language=English[Chanting Book, Vol. 1]]
 ____

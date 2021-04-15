@@ -286,7 +286,7 @@ conversation we had, comes right up there next to that first meditation
 retreat at Nimbin. In my book, __Alert To The Needs Of The
 Journey__footnote:[link:https://forestsangha.org/teachings/books/alert-to-the-needs-of-the-journey?language=English[Alert To The Needs Of The Journey by Ajahn Munindo (2018)]], I wrote the following,
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
 _‘On the first occasion of my meeting Ajahn Sumedho, I
 was struck by the simple, but beautiful way in which he was able to say

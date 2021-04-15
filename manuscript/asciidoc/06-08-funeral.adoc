@@ -49,11 +49,11 @@ cittam yassa na kampati, +
 asokam, virajam, khemam, +
 etam mangalam-uttamam_
 
-‘Though subjected to the worldly dhammas, +
+_‘Though subjected to the worldly dhammas, +
 the heart (of one who has insight into the +
 Four Noble Truths) will remain unshakeable, +
 griefless, dustless, secure. +
-This is the greatest blessing.’
+This is the greatest blessing.’_
 ____
 
 The land and buildings surrounding Harnham Monastery were owned by Mr
@@ -299,13 +299,13 @@ With The Cobra_. The central message, as far as I was concerned, is:
 don’t invest too much in ideas of enlightenment; look instead into that
 which is happening right here and now.
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
-__Nibbana_ is found in _saṃsara_. Enlightenment and
+___Nibbana___ is found in __saṃsara__. Enlightenment and
 delusion exist in the same place, just as do hot and cold. It’s hot
 where it was cold and cold where it was hot. When heat arises, the
 coolness disappears, and when there is coolness, there’s no more heat.
-(__The Collected Teachings of Ajahn Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]], p.235)_
+(__The Collected Teachings of Ajahn Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]], p.235)
 ____
 
 The sixth situation or teaching that stands out for me and has shaped my
@@ -345,7 +345,7 @@ come to recognize that which is inherently still. He suggested that, as
 we observe all that which is arising and ceasing, we should be
 enquiring, out of ‘what’ is this movement we call ‘mind’ emerging.
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
 _You recognize that all thinking is merely the
 movement of the mind, and also that knowing is not born and doesn’t die.

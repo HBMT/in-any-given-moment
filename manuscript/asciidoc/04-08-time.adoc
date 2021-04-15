@@ -38,15 +38,15 @@ in time to give it to the departing guest. That talk is now printed in
 brilliant, succinct summary of the right way to approach practice. My
 favourite part of the talk is where Tan Ajahn says,
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
 _We extinguish fire at the place at which it appears.
 Wherever it is hot, that’s where we can make it cool. And so it is with
-enlightenment. _Nibbana_ is found in _saṃsara_. Enlightenment and
+enlightenment. __Nibbana__ is found in __saṃsara__. Enlightenment and
 delusion exist in the same place, just as do hot and cold. It’s hot
 where it was cold and cold where it was hot. When heat arises, the
 coolness disappears, and when there is coolness, there’s no more heat.
-In this way _Nibbana_ and _saṃsara_ are the same._
+In this way __Nibbana__ and __saṃsara__ are the same._
 ____
 
 I have listened to this talk many times over the years and continue to
@@ -128,12 +128,12 @@ translation of this conversation is printed on p.475 in __The Collected
 Teachings of Ajahn Chah__footnote:[link:https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English[The Collected Teachings of Ajahn Chah]]. Here is my
 favourite extract from that dialogue,
 
-[quote, role=quote]
+[quote, role=quote-plain]
 ____
-__Q:_ I still don’t understand. Is true contemplating
-the same as thinking?_
+__Q__: I still don’t understand. Is true contemplating
+the same as thinking?
 
-_Tan Ajahn Chah:_ We use thinking as a tool, but the knowing that arises
+__Tan Ajahn Chah:__ We use thinking as a tool, but the knowing that arises
 because of its use is above and beyond the process of thinking; it leads
 to our not being fooled by our thinking anymore. You recognize that all
 thinking is merely the movement of the mind, and also that knowing is
