@@ -441,12 +441,14 @@ philo-sophical munindo amaravati thai-land}
 
 \newcommand*{\subtitle}[1]{\def\@thesubtitle{#1}}
 \newcommand*{\editionInfo}[1]{\def\@theEditionInfo{#1}}
+\newcommand*{\digitalEditionInfo}[1]{\def\@theDigitalEditionInfo{#1}}
 \newcommand*{\printedByInfo}[1]{\def\@thePrintedByInfo{#1}}
 \newcommand*{\publisher}[1]{\def\@thePublisher{#1}}
 \newcommand*{\ISBN}[1]{\def\@theISBN{#1}}
 
 \newcommand\thesubtitle{\@thesubtitle}
 \newcommand\theEditionInfo{\@theEditionInfo}
+\newcommand\theDigitalEditionInfo{\@theDigitalEditionInfo}
 \newcommand\thePrintedByInfo{\@thePrintedByInfo}
 \newcommand\thePublisher{\@thePublisher}
 \newcommand\theISBN{\@theISBN}
