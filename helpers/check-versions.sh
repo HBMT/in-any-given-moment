@@ -4,7 +4,7 @@ set -e
 
 # Make sure the versions defined in main.text and main.adoc coincide
 # Use from project dir:
-# sh check-versions.sh main.tex main.adoc
+# sh ./helpers/check-versions.sh main.tex main.adoc
 TEX_SRC="$1"
 ADOC_SRC="$2"
 
