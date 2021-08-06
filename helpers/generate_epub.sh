@@ -14,7 +14,7 @@ MAIN_ADOC="$1.adoc"
 NAME="$1"
 
 # Check versioning
-./helpers/check-versions.sh main.tex "$MAIN_ADOC"
+# ./helpers/check-versions.sh main.tex "$MAIN_ADOC"
 
 if [ $? -ne 0 ]; then
     echo "Not compiling epub; please check versions match in both main.tex and main.adoc"

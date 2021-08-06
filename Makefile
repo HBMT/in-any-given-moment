@@ -11,19 +11,20 @@ four-times:
 	./helpers/four-times.sh
 
 document:
-	./helpers/check-versions.sh main.tex main.adoc && $(LATEX) $(LATEX_OPTS) $(FILE).tex
+	# ./helpers/check-versions.sh main.tex main.adoc && $(LATEX) $(LATEX_OPTS) $(FILE).tex
+	$(LATEX) $(LATEX_OPTS) $(FILE).tex
 
 html:
 	asciidoctor -D output stillness-flowing.adoc
 
 epub:
-	./helpers/check-versions.sh main.tex main.adoc && ./helpers/generate_epub.sh $(FILE)
+	./helpers/generate_epub.sh $(FILE)
 
 epub-validate:
 	EPUBCHECK=~/bin/epubcheck asciidoctor-epub3 -D output -a ebook-validate main.adoc
 
 mobi:
-	./helpers/check-versions.sh main.tex main.adoc && ./helpers/generate_mobi.sh $(FILE)
+	./helpers/generate_mobi.sh $(FILE)
 
 preview:
 	latexmk -pvc $(FILE).tex

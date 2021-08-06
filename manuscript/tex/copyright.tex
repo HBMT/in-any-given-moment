@@ -36,11 +36,16 @@ Attribution-NonCommercial-NoDerivatives 4.0 International~License.
 Produced with the \LaTeX\ typesetting system, set in EB Garamond,\\
 Alegreya Sans and Merriweather.
 
+% \ifdesktopversion
+% \theDigitalEditionInfo
+% \else
+% \theEditionInfo\\
+% \theDigitalEditionInfo
+% \fi
 \ifdesktopversion
-\theDigitalEditionInfo
+\textit{\theDigitalEditionInfo}, 2021.
 \else
-\theEditionInfo\\
-\theDigitalEditionInfo
+\theEditionInfo\ (\theDigitalEditionInfo)
 \fi
 
 }}
