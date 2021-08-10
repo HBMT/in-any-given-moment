@@ -71,7 +71,7 @@ the axis of _sati_, maintaining balance.
 
 == Saddha (faith)
 
-[quote, Dhammapada 54 role=quote]
+[quote, Dhammapada 54, role=quote]
 ____
 _The fragrance of flowers or sandalwood +
 blows only with the prevailing wind, +
@@ -151,7 +151,7 @@ Chithurst forest in 1989.
 
 [quote, role=quote]
 ____
-_Faith_
+_Faith_ +
 
 _Trust is precious +
 A treasure trove of gold. +
