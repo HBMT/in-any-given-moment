@@ -1,15 +1,14 @@
 = Sitting in the Buddha’s Waiting Room
 
-There is a story traditionally associated with __Dhammapada verse
-331__footnote:[link:http://www.tipitaka.net/tipitaka/dhp/verseload.php?verse=331[Dhammapada verse 331]] above, in which _Mara_ tries to
-entice the Buddha to take on the powers of a king and become a worldly
-ruler. There was no way that was going to happen; the Buddha was not
-interested in having power over others. He was interested in showing
-people how they could have dominion over their own lives. All of his
-teachings point to the true source of inner strength and security:
-selfless just-knowing awareness. Most of our practice is about learning
-how to make that just-right kind of effort so we are gradually more
-aligned with this inner refuge.
+TThere is a story traditionally associated with __Dhammapada verse
+331__footnote:[link:http://www.tipitaka.net/tipitaka/dhp/verseload.php?verse=331[Dhammapada verse 331]]above, in which _Mara_ tries to entice the Buddha to take on the powers
+of a king and become a worldly ruler. There was no way that was going to
+happen; the Buddha was not interested in having power over others. He
+was interested in showing people how they could have dominion over their
+own lives. All of his teachings point to the true source of inner
+strength and security: selfless just-knowing awareness. Most of our
+practice is about learning how to make that just-right kind of effort so
+we are gradually more aligned with this inner refuge.
 
 We all like to feel reassured that we are making progress in practice
 and that our efforts are not wasted. However, there comes a time when we
@@ -72,7 +71,7 @@ the axis of _sati_, maintaining balance.
 
 == Saddha (faith)
 
-[quote, Dhammapada 54, role=quote]
+[quote, Dhammapada 54 role=quote]
 ____
 _The fragrance of flowers or sandalwood +
 blows only with the prevailing wind, +
@@ -103,8 +102,7 @@ cultivated. It has the potential to sustain us when we are confronted
 with intense uncertainty. Having embarked on this journey to awakening,
 it is guaranteed we will travel through territory that is uncharted,
 uncertain, unknown. A well-developed sense of _saddha_ means we can feel
-uncertain, we can enter into the unknown, without sinking into the swamp
-of fear and dread.
+uncertain, we can enter into the unknown better prepared and less likely to sink into the swamp of fear and dread.
 
 _Saddha_ in the context of the Buddha’s teachings is not the same as
 belief. We believe in ideas in our heads. _Saddha_ or faith involves our
@@ -149,7 +147,7 @@ become more identified as it. _Saddha_ is precious and as practice
 progresses we come to see the wisdom of protecting it, of guarding it,
 of treasuring it. Here is a poem about _saddha_ by Kittisaro that he
 shared with me. He wrote it while he was on a year’s retreat in
-Chithurst forest in 1987,
+Chithurst forest in 1989.
 
 [quote, role=quote]
 ____
@@ -178,13 +176,13 @@ son, Rahula, in which he asked Rahula what the purpose of a mirror was.
 Rahula replied that a mirror was for seeing our face in. The Buddha went
 on to say that when we want to see our heart, we use wise reflection.
 Towards the very beginning of this book (Part One, Chapter Four), where
-I was explaining the way Tan Ajahn Thate taught about wisdom, I
+I was explaining the way Tan Ajahn Thate taught about wisdom I
 described _pañña_ as being a self-reflective capacity which has the
 function of revealing the reality of that which appears within
 awareness. It is _saddha_ that gets us started on this journey to
 awakening, and it is wisdom that shows us where we need to go.
 
-If we have too much _saddha_ we can become lost in naivete. The
+If we have too much _saddha_ we can become lost in naivety. The
 confidence that comes from _saddha_ has the potential to make us
 complacent. That which counters naivety and complacency is _pañña_, or
 wisdom. Wisdom functions in relationship to faith; they cooperate.
@@ -248,7 +246,7 @@ that was released as a result of making that resolve contributed
 significantly to his establishing his own architect company. These days
 Rion runs a consultancy business, and as part of the contract that
 clients sign, there can be no consumption of alcohol for twenty-four
-hours prior to their meeting. It was wisdom that recognized the
+hours prior to their meeting. We could say that it was wisdom that recognized the
 relevance of the precept talk and compassion that meant the wisdom was
 shared. Dhammapada verse 290 says,
 
@@ -261,21 +259,21 @@ ____
 
 It is easy to be inspired by the compassionate example of those who have
 already taken the journey – who have done their work – but we would be
-mistaken if we think we can have the compassion without doing the work.
+mistaken if we think we can have the wisdom without doing the work.
 
 In 1967 I was fifteen years old, and I can recall sitting in the living
-room in our house in Morrisville, watching on our black and white
-television set a global TV link-upfootnote:[link:https://www.bbc.co.uk/blogs/genome/entries/581d6e34-67f3-40e2-a372-12a4947d4c56[Satellite of Love]] – the
-first occasion when many countries around the world all simultaneously
-tuned in to the same program. One of Britain’s contributions to that
-event was the Beatles singing _All You Need is Love_. They were backed
-by a large orchestra and joyously sang out a refrain about love – over
-and over again. It was a catchy tune and sounded very hopeful.
-Unfortunately, that global link-up and the Beatles song were not enough
-to transform the insanity and suffering of the world. In reality, when
-what is referred to as love is not associated with wisdom, it can be
-very selfish. A song called _All you need is wisdom_ is not so catchy,
-but the message is closer to the truth.
+room in our house in Morrinsville, watching on our black and white
+television set a global TV link-upfootnote:[link:https://www.bbc.co.uk/blogs/genome/entries/581d6e34-67f3-40e2-a372-12a4947d4c56[Satellite of Love]] – the first occasion when many
+countries around the world all simultaneously tuned in to the same
+program. One of Britain’s contributions to that event was the Beatles
+singing _All You Need is Love_. They were backed by a large orchestra
+and joyously sang out a refrain about love – over and over again. It was
+a catchy tune and sounded very hopeful. Unfortunately, that global
+link-up and the Beatles song were not enough to transform the insanity
+and suffering of the world. In reality, when what is referred to as love
+is not associated with wisdom, it can be very selfish. A song called
+_All you need is wisdom_ is not so catchy, but the message is closer to
+the truth.
 
 Wisdom understands, for instance, that reality is multidimensional. The
 waves on the surface of the ocean are only part of the reality of the
@@ -311,12 +309,12 @@ dwelling on thoughts of kindness and gratitude yet at the same time be
 completely lost in pleasant feelings. Pleasant feelings that arise from
 focusing on goodness can be intoxicating. Once again, it is wise to
 reflect that the Buddha pointed out: _You continue to suffer because you
-fail to see two things – not seeing dukkha and not seeing the cause of
+fail to see two things – dukkha and the cause of
 dukkha_. When wisdom is well-developed it is less likely that we will
 make the mistake of indulging in agreeable feelings. There is a better
 chance we will engage the strength and resilience that goodness gives
 us, and use it to fearlessly face _dukkha_, to drill down into it and
-enquire: ‘What is this suffering?’ ‘What is the cause of this
+enquire: ‘What is this suffering? What is the cause of this
 suffering?’
 
 _Pañña_ sees through facades – our own and others. We might catch
@@ -406,13 +404,13 @@ understanding.
 _Viriya_ is needed to overcome inertia and to take initiative; it means
 we don’t settle for the status quo. Without _viriya_ the Buddha-to-be
 wouldn’t have embarked on the journey to awakening. Without _viriya_ he
-might have accepted the invitation from his first two teachers to settle
+might have accepted one of the invitations from his first two teachers to settle
 in and help them run their communities, and might even have abandoned
 his aspiration to realize full and final freedom from all suffering.
 
 Without _viriya_, Ajahn Sumedho might have remained at Wat Pah Nanachat
 and not spent years initiating and supporting the development of many
-monasteries in the West. Without _viriya_, the abbot I mentioned earlier
+monasteries in the West. Without _viriya_, the abbot I mentioned earlier 
 who found himself on the receiving end of somebody else’s projected pain
 wouldn’t have taken the time he needed to thoroughly attend to how he
 had been affected.
@@ -443,7 +441,7 @@ easy to memorise and rattle off the list of the four right efforts, but
 what does it _actually_ mean to make these four kinds of effort?
 
 Let’s begin with ‘making an effort to protect already arisen
-wholesomeness.’ As an experiment, bring to mind some positive aspect of
+wholesomeness’. As an experiment, bring to mind some positive aspect of
 your character, and then ask yourself, ‘what do I need to do to protect
 this good quality?’ For example, perhaps some time ago you decided to
 take the precepts seriously – not merely repeating them in Pali without
@@ -487,9 +485,8 @@ extra. As a result of seeing this, forgiveness grows.
 The third right effort is described as ‘making an effort to remove
 already arisen unwholesome states of mind.’ It is beneficial to
 familiarize ourselves with what the Buddha said about the five ways of
-removing distracting thoughtsfootnote:[link:https://www.accesstoinsight.org/tipitaka/mn/mn.020.soma.html[The Removal of Distracting Thoughts]]. Also I
-would recommend reading what Ajahn Tiradhammo wrote in his book,
-__Working with the Five Hindrances__footnote:[link:https://forestsangha.org/teachings/books/working-with-the-five-hindrances?language=English[Working with the Five Hindrances]].
+removing distracting thoughtsfootnote:[link:https://www.accesstoinsight.org/tipitaka/mn/mn.020.soma.html[The Removal of Distracting Thoughts]]. Also I would recommend reading what Ajahn
+Tiradhammo wrote in his book, _Working with the Five Hindrancesfootnote:[link:https://forestsangha.org/teachings/books/working-with-the-five-hindrances?language=English[Working with the Five Hindrances, Ajahn Thiradhammo (2016)]]_.
 
 In my own experience I have found it useful to bear in mind that the
 kind of effort required to deal with an already arisen obstruction
@@ -506,7 +503,7 @@ worse. It might seem like it disappears, but that doesn’t mean it has
 gone away; it has gone into unawareness and might be more difficult to
 deal with when it returns. For this level of intensity we need to turn
 around and face that which is troubling us and use our faculties to
-investigate. We could call this approach ‘seeing through.’ We use our
+investigate. We could call this approach ‘seeing through’. We use our
 mental, emotional and physical faculties to enquire as to the source of
 this obstruction. How do we feel in our heart as we face this sense of
 being blocked from progressing? Where do we feel the tension in the
@@ -523,7 +520,7 @@ go swimming. Physical exercise is an important concomitant in this
 process.
 
 A different kind of effort is required when dealing with the most
-intense type of obstruction, which I call ‘burning through.’ In my own
+intense type of obstruction, which I call ‘burning through’. In my own
 case it often feels like physical burning involving a lot of heat. If we
 find ourselves in such a situation, there is not much that we can do
 other than feel the fire, stay present in the body-mind, stay soft and
@@ -565,8 +562,8 @@ energy, and we also must be ready to accord with energy that arises
 spontaneously. Here I am referring to the intensity we feel when faced
 with a dilemma.
 
-When we are in the middle of a dilemma and feel frustrated, it is the
-easiest thing to indulge in wanting the _dukkha_ to disappear. The same
+when we are in the middle of a dilemma and feel frustrated, it is the
+easiest thing to indulge in wanting the _dukkha_ to disappear. the same
 applies to when we are shocked – when something totally unexpected
 occurs and our bubble of uninspected assumption bursts, and we
 experience a great release of energy. If our wanting to be free from
@@ -644,15 +641,15 @@ attend closely to the attitude with which we engage the spiritual
 exercises.
 
 The sort of attitude we need to have when disciplining attention is
-similar to that of a gardener as he or she trains their runner
-beansfootnote:[link:https://www.growveg.co.uk/guides/how-to-grow-runner-beans/[How to Grow Runner Beans]] to run along the frame which they have
-erected. The gardener gently guides the beans to grow in a certain
-direction so they get maximum sunlight and are easy to pick once they
-are mature. The gardener is aware that if they are not careful they will
-damage the tender young shoots. And they understand that, with enough
-water and warmth and time, the vines will produce beans of their own
-accord. They are not trying to squeeze the beans out of the vine – it is
-not up to the gardener to force the plant to produce beans.
+similar to that of a gardener as he or she trains their runner beansfootnote:[link:https://www.growveg.co.uk/guides/how-to-grow-runner-beans/[How to Grow Runner Beans]] to
+run along the frame which they have erected. The gardener gently guides
+the beans to grow in a certain direction so they get maximum sunlight
+and are easy to pick once they are mature. The gardener is aware that if
+they are not careful they will damage the tender young shoots. And they
+understand that, with enough water and warmth and time, the vines will
+produce beans of their own accord. They are not trying to squeeze the
+beans out of the vine – it is not up to the gardener to force the plant
+to produce beans.
 
 Personally, I have found that when I approached practice with a
 striving-gaining attitude, my mind became more disturbed, not less. I
@@ -749,21 +746,20 @@ you would hold a newborn baby – gently, softly and lovingly.
 
 Another approach to stillness – and one with which we might prepare
 ourselves by contemplating in advance – can come with sickness. A few
-years ago a good friend of our monasteries contracted Lyme
-diseasefootnote:[link:https://www.nhs.uk/conditions/lyme-disease/[Lyme disease]]. As can happen, his condition went
-undiagnosed for a long time. Then it took a great many months before he
-could say he was back to anything like normal again. When he was
-somewhat recovered, he shared with me how at one stage during his
-illness he didn’t have enough energy to even lift himself off the bed.
-And in that debilitated state, there was a period when he was so drained
-of energy that even the effort required to maintain a sense of personal
-self was beyond him. He related how when he reached that point, the
-individual self disappeared, and what was left was a perception of vast
-expanded awareness and connectedness – there was no fear. He felt that
-if that was his final breath he was going to take, that would be OK.
-This friend had been meditating for many years before falling ill, so we
-can assume it was not through sheer luck that he stumbled upon this
-life-changing experience.
+years ago a good friend of our monasteries contracted Lyme diseasefootnote:[link:https://www.nhs.uk/conditions/lyme-disease[Lyme disease]]. As
+can happen, his condition went undiagnosed for a long time. Then it took
+a great many months before he could say he was back to anything like
+normal again. When he was somewhat recovered, he shared with me how at
+one stage during his illness he didn’t have enough energy to even lift
+himself off the bed. And in that debilitated state, there was a period
+when he was so drained of energy that even the effort required to
+maintain a sense of personal self was beyond him. He related how when he
+reached that point, the individual self disappeared, and what was left
+was a perception of vast expanded awareness and connectedness – there
+was no fear. He felt that if that was his final breath he was going to
+take, that would be OK. This friend had been meditating for many years
+before falling ill, so we can assume it was not through sheer luck that
+he stumbled upon this life-changing experience.
 
 == Sati (mindfulness)
 
@@ -813,8 +809,7 @@ egoity – to be able to investigate _anicca, dukkha, anatta,_ and awaken
 – requires that we are mindful in the whole body-mind. Mindfulness
 training is not merely a mental exercise.
 
-Earlier I described how during my time as a junior monk in Thailand I
-was hesitant to join in with the other monks performing attendant duties
+Earlier I described how during my time as a junior monk in Thailand I was hesitant to join in with the other monks performing attendant duties
 with our teacher, Tan Ajahn Chah. I suggested that my hesitation was
 because of a fear of rejection, but it might have been more complicated
 than that. I suspect that I also sensed on some level that I simply
