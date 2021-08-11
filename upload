@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# Die on errors
+set -e
+
+# date format
+d=`date +%F`
+
+# base filename
+filename="in-any-given-moment-$d"
+echo $filename
+
+# upload to drive
+cp main.pdf "${filename}.pdf"
+cp output/main-custom.epub "${filename}.epub"
+cp output/main-custom-kf8.mobi "${filename}.mobi"
+
+rclone copy "${filename}.pdf" adicco:"/Aruno Publications/English/Ajahn Munindo/In Any Given Moment/ebooks/" --verbose --drive-shared-with-me
+rclone copy "${filename}.mobi" adicco:"/Aruno Publications/English/Ajahn Munindo/In Any Given Moment/ebooks/" --verbose --drive-shared-with-me
+rclone copy "${filename}.epub" adicco:"/Aruno Publications/English/Ajahn Munindo/In Any Given Moment/ebooks/" --verbose --drive-shared-with-me
+
+# Print version?
+if test -f "main-PRINT.pdf"; then
+	cp main-PRINT.pdf "${filename}-PRINT.pdf"
+	rclone copy "${filename}-PRINT.pdf" adicco:"/Aruno Publications/English/Ajahn Munindo/In Any Given Moment/print/" --verbose --drive-shared-with-me
+fi
+
+echo "Copying to the QNAP for your own backup..."
+cp ${filename}* "/mnt/QNAP/Sangha/Tan Adicco/Publications/"
+
+# Creating archive
+curpath=${PWD##*/} 
+echo "Compressing $curpath and uploading to FSP Drive too"
+
+cd ../
+tar -czvf "${filename}.tar.gz" "${curpath}/"
+rclone copy "${filename}.tar.gz" adicco:"/Aruno Publications/English/Ajahn Munindo/In Any Given Moment/sources/" --verbose --drive-shared-with-me
+rm "${filename}.tar.gz"
+
+cd $curpath
