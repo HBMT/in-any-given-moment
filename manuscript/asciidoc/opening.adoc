@@ -1,7 +1,7 @@
 [#opening]
 = (Opening)
 
-[quote, Dhammapada verse 239, role=quote]
+[quote, Dhammapada v.239, role=quote]
 ____
 _Gradually, gradually, +
 A moment at a time, +

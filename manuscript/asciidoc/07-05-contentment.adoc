@@ -1,6 +1,6 @@
 = Contentment
 
-[quote, Dhammapada 198, role=quote]
+[quote, Dhammapada v.198, role=quote]
 ____
 _While in the midst of those who are troubled, +
 to remain untroubled +
@@ -166,7 +166,7 @@ the rubbish collector as well. This is how things are – it’s the same at
 Wat Pah Pong, it was the same at the time of the Buddha… everything gets
 chucked in the abbot’s bin! One in such a position must therefore be
 far-sighted, have depth, and remain unshaken in the midst of all things.
-They must be consistent – able to persevere.footnote:[link:https://www.amaravati.org/dhamma-books/seeing-the-way-volume-1/[Seeing the Way, Vol. 1, Amaravati Publications, 1989]]_
+They must be consistent – able to persevere._
 ____
 
 Every abbot of our branch monasteries in the West with whom I have
@@ -310,7 +310,7 @@ can resolve to be more careful.
 == Reshaping of the Self
 
 As recently as one hundred years ago, the majority of inhabitants of
-England periodically engaged in various spiritual exercises that
+England periodically engaged in a variety of spiritual exercises that
 helped protect them from the danger of excessive self-importance. On a
 regular basis they would shake hands with and feel seen by someone who
 they perceived to be in close communication with the Almighty; they sang
@@ -443,7 +443,7 @@ Technology is not going to disappear. What would help is to develop a
 wise relationship with it and learn to understand where the real causes
 of suffering lie.
 
-[quote, Dhammapada 234, role=quote]
+[quote, Dhammapada v.234, role=quote]
 ____
 _Ably self-restrained are the wise, +
 in action, in thought and in speech._
@@ -1246,7 +1246,7 @@ quietly think the word, con-tent-ment.
 
 To end this chapter, here is one more helpful verse from the Dhammapada,
 
-[quote, Dhammapada verse 331, role=quote]
+[quote, Dhammapada v.331, role=quote]
 ____
 _The timely company of friends is goodness. +
 Fewness of needs is goodness. +

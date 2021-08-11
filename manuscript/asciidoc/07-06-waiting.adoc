@@ -71,7 +71,7 @@ the axis of _sati_, maintaining balance.
 
 == Saddha (faith)
 
-[quote, Dhammapada 54, role=quote]
+[quote, Dhammapada v.54, role=quote]
 ____
 _The fragrance of flowers or sandalwood +
 blows only with the prevailing wind, +
@@ -381,7 +381,7 @@ embark on the great journey.
 
 == Viriya (energy)
 
-[quote, Dhammapada 24, role=quote]
+[quote, Dhammapada v.24, role=quote]
 ____
 _Those who are energetically committed to the Way, +
 who are pure and considerate in effort, +
@@ -599,7 +599,7 @@ it.
 
 == Samadhi (collectedness)
 
-[quote, Dhammapada 82, role=quote]
+[quote, Dhammapada v.82, role=quote]
 ____
 _On hearing true teachings +
 the hearts of those who are receptive become serene, +

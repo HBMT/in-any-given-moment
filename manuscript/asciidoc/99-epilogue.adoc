@@ -1,6 +1,6 @@
 = Epilogue
 
-[quote, Dhammapada 58, role=quote]
+[quote, Dhammapada v.58, role=quote]
 ____
 _A sweet-smelling and beautiful lotus +
 can grow from a pile of discarded waste._

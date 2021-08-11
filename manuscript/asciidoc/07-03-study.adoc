@@ -1,6 +1,6 @@
 = Why Study?
 
-[quote, Dhammapada 352, role=quote]
+[quote, Dhammapada v.352, role=quote]
 ____
 _A master is one who has let go of all craving +
 and clinging to the world; +
