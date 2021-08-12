@@ -246,7 +246,7 @@
 
 \newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}
 
-\newcommand{\urlsize}{\@setfontsize\urlsize{7}{7}}
+\newcommand{\urlsize}{\@setfontsize\urlsize{6.8}{7}}
 
 % foreign language wrappers
 
